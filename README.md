@@ -16,4 +16,5 @@ This project compares two CMS stacks:
 
 ## Project Management
 
-See our [Project Board](https://github.com/org/cms-showdown/projects/1) for status and evaluation criteria.
+See the [Project Board](https://github.com/users/alexfinnarn/projects/2/views/1?template_dialog_tab=featured&layout_template=table) 
+for status on the showdown and evaluation criteria.
